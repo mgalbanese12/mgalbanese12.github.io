@@ -1,0 +1,15 @@
+#- date: "May 2012"
+#  name: "HEADING"
+#  description: "description test"
+#  imgSrc: "img/timeline/image.jpg"
+#  type: "" for text on left side, "timeline-inverted" for text on right side
+- date: "May 2012"
+  name: "First title"
+  description: "Testing first timeline object"
+  imgSrc: "img/about/1.jpg"
+  type: "" ## blank for text of left, "timeline-inverted" for text on right
+- date: "April 2019"
+  name: "The Project"
+  description: "In April 2019, Ian convinced Mike that it would be a good idea to start this project. As a result, Ian is the lead Marketer and Mike is the lead Developer."
+  imgSrc: "img/about/2.jpg"
+  type: "timeline-inverted"

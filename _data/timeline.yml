@@ -1,0 +1,30 @@
+# TOPIC FORMAT
+#- date: "May 2012"
+#  name: "HEADING"
+#  description: "description test"
+#  imgSrc: "img/timeline/image.jpg"
+#  li_type: "" for text on left side, "timeline-inverted" for text on right side
+
+- date: "May 2012"
+  name: "First title"
+  description: "Testing first timeline object"
+  imgSrc: "img/about/1.jpg"
+  li_type: ""
+  
+- date: "August 2014"
+  name: 
+  description: "Mike moves from Virginia to Denver, Colorado"
+  imgSrc: "img/about/2.jpg"
+  li_type: "timeline-inverted"
+
+- date: "September 2017"
+  name: 
+  description: "Mike moves from Denver, CO to Mountain View, CA"
+  imgSrc: "img/about/2.jpg"
+  li_type: ""
+
+- date: "April 2019"
+  name: "The Project"
+  description: "In April 2019, Ian convinced Mike that it would be a good idea to start this project. As a result, Ian is the lead Marketer and Mike is the lead Developer." 
+  imgSrc: "img/about/2.jpg"
+  li_type: "timeline-inverted"
