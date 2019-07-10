@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Laws
+subtitle: State and Local laws that impact daily life
 layout: default
 modal-id: 4
 date: 2014-07-15

@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Services/Utilities
+subtitle: Local Services and Utilities available to residents
 layout: default
 modal-id: 5
 date: 2014-07-14
