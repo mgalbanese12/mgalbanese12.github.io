@@ -1,9 +1,9 @@
 ---
-title: Placeholder
-subtitle: We don't have a 6th category yet...
+title: Local Environment
+subtitle: Weather, Culture, Etc.
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2014-07-14
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
