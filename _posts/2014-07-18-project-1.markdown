@@ -12,8 +12,8 @@ MD: Comptroller of Maryland
 VAURL: https://www.tax.virginia.gov/
 VA: Virginia Tax
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: taxes.png
+thumbnail: taxes-thumbnail.png
 alt: image-alt
 
 
