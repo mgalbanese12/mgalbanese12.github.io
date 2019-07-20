@@ -4,12 +4,22 @@ subtitle: Weather, Culture, Etc.
 layout: default
 modal-id: 6
 date: 2014-07-14
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: environment.png
+thumbnail: environment-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Moving from Hot to Cold or Ho-Hum to Hip? know what to prepare for when moving to your new Location.
+DCURL: https://www.ncdc.noaa.gov/cdo-web/search
+DC: NOAA Climate Data
+DCURL1: https://www.melissa.com/v2/lookups/zipclimate/zipcode
+DC1: Melissa Zip Lookup
+MDURL: https://www.ncdc.noaa.gov/cdo-web/search
+MD: NOAA Climate Data
+MDURL1: https://www.melissa.com/v2/lookups/zipclimate/zipcode
+MD1: Melissa Zip Lookup
+VAURL: https://www.ncdc.noaa.gov/cdo-web/search
+VA: NOAA Climate Data
+VAURL1: https://www.melissa.com/v2/lookups/zipclimate/zipcode
+VA1: Melissa Zip Lookup
 ---
+
