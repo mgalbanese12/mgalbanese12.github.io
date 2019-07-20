@@ -8,8 +8,25 @@ img: utilities.png
 thumbnail: utilities-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Don't forget to close out prior utilities accounts & update your license and address
+DCURL: https://www.usps.com/manage/forward.htm
+DC: Mail Forwarding
+DCURL1: https://www.vote4dc.com/ApplyInstructions/Register
+DC1: Voter Registration
+DCURL2: https://zerowaste.dc.gov/page/recycle-residents
+DC2: Recycling
+MDURL: https://www.usps.com/manage/forward.htm
+MD: Mail Forwarding
+MDURL1: https://elections.maryland.gov/voter_registration/index.html
+MD1: Voter Registration
+MDURL2: https://www.mdrecycles.org/recycling-directory/
+MD2: Recycling
+VAURL: https://www.usps.com/manage/forward.htm
+VA: Mail Forwarding
+VAURL1: https://vote.elections.virginia.gov/Registration/Eligibility
+VA1: Voter Registration
+VAURL2: https://vrarecycles.org/
+VA2: Recycling
+ 
 
 ---
