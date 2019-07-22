@@ -10,6 +10,36 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Its your responsibility to understand your state and local laws.
+DCURL: https://mpdc.dc.gov/firearms
+DC: Gun Laws
+DCURL1: https://www.tripsavvy.com/dc-liquor-laws-1038683
+DC1: Alcohol Laws
+DCURL2: http://dcweddings.com/resources/washington-dc-marriage-laws
+DC2: Marriage Laws
+DCURL3: https://www.dcwater.com/rates-and-billing
+DC3: Water/Mineral Rights
+DCURL4: https://dc.gov/page/laws-regulations-and-courts
+DC4: Local Laws
+MDURL: https://www.gunstocarry.com/gun-laws-state/maryland-gun-laws/
+MD: Gun Laws
+MDURL1: http://www.mva.maryland.gov/drivers/impaired/maryland-impaired-driving-laws.htm
+MD1: Alcohol Laws
+MDURL2: https://www.courts.state.md.us/clerks/calvert/marriagelicense
+MD2: Marriage Laws
+MDURL3: https://www.wsscwater.com/rates
+MD3:  Water/Mineral Rights
+MDURL4: https://www.lawlib.state.md.us/researchtools/codescounty.html
+MD4: County Laws
+VAURL: https://en.wikipedia.org/wiki/Gun_laws_in_Virginia
+VA: Gun Laws
+VAURL1: https://www.abc.virginia.gov/enforcement/virginia-codes-and-regulations/importing-personal-alcohol
+VA1: Alcohol Laws
+VAURL2: http://www.vdh.virginia.gov/vital-records/marriage-requirements/
+VA2: Marriage Laws
+VAURL3: https://www.dmme.virginia.gov/dgo/pdf/GasSurfRightsFlyer.pdf
+VA3:  Water/Mineral Rights
+VAURL4: https://library.municode.com/va
+VA4:  County Laws
+ 
 ---

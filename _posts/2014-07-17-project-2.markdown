@@ -8,8 +8,25 @@ img: registrations.png
 thumbnail: registrations-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+DCURL: https://dmv.dc.gov/service/vehicle-registration-and-inspection
+DC: Vehicle Registration
+DCURL1: https://dmv.dc.gov/service/pass-dc-dmv-vehicle-inspection
+DC1: Vehicle Safety Inspection
+DCURL2: https://dmv.dc.gov/service/vehicle-registration-and-inspection
+DC2: Vehicle Emissions Inspection
+MDURL: http://www.mva.maryland.gov/vehicles/registration/title-registration-info.htm
+MD: Vehicle Registration
+MDURL1: http://www.mva.maryland.gov/about-mva/info/58000ASE/58000-01T.htm
+MD1: Vehicle Safety Inspection
+MDURL2: http://www.mva.maryland.gov/about-mva/info/58000VEI/58000-06T.htm
+MD2: Vehicle  Emissions Inspection
+VAURL: https://www.dmv.virginia.gov/vehicles/#vehiclereg.asp
+VA: Vehicle Registration
+VAURL1: http://www.vsp.state.va.us/Safety.shtm
+VA1: Vehicle Safety Inspection
+VAURL2: https://www.deq.virginia.gov/Programs/AirCheckVirginia/ForMotoristsVehicleOwners/VehicleEmissionsInspectionFAQ.aspx
+VA2: Vehicle Emission Inspection
+
+description: What Registrations and Inspections do you need?
 
 ---

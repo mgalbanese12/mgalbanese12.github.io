@@ -3,14 +3,18 @@ title: Taxes
 subtitle: Income Tax, Property Tax, Etc.
 layout: default
 modal-id: 1
-DCURL: https://otr.cfo.dc.gov/
-DC: DC Office of Tax and Revenue
-DCURL1: https://
-DC1: DC Office of Tax and Revenues
-MDURL: https://www.marylandtaxes.gov/
-MD: Comptroller of Maryland
-VAURL: https://www.tax.virginia.gov/
-VA: Virginia Tax
+DCURL: https://otr.cfo.dc.gov/service/individual-income-taxpayers
+DC: Income Tax
+DCURL1: https://otr.cfo.dc.gov/service/real-property-taxpayers
+DC1: Property Tax
+MDURL: https://taxes.marylandtaxes.gov/Individual_Taxes/Individual_Tax_Types/Income_Tax/Tax_Information/
+MD: Income Tax
+MDURL1: https://smartasset.com/taxes/maryland-property-tax-calculator
+MD1: Property Tax
+VAURL: https://www.tax.virginia.gov/individual-income-tax-filing
+VA: Income Tax
+VAURL1: https://smartasset.com/taxes/virginia-property-tax-calculator
+VA1: Property Tax
 date: 2014-07-18
 img: taxes.png
 thumbnail: taxes-thumbnail.png
@@ -18,6 +22,6 @@ alt: image-alt
 
 
 
-description: Blah Blah, Taxes, Blah,  Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Understanding your New State and Local Taxes 
 
 ---
