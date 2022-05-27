@@ -1,0 +1,23 @@
+ <!-- About Section -->
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>I provide technical services to organizations that make the world a better place. I help smaller firms access a team of experts without the financial commitment of hiring additional personnel.</p>
+                </div>
+                <div class="col-lg-4">
+                    <p>Whether you need asset valuation and data analysis for contract negotiations, a new enterprise data warehouse and reporting system, or just want to improve your billing practices; my knowledge, experience, and network can get started today!  </p> 
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                   
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
