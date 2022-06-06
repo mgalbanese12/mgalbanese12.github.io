@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2021-09-19
-img: game.png
+img: claims.png
 alt: image-alt
 project-date: September 2021
 client: SolutionsFBIA

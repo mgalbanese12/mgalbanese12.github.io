@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2021-02-04
-img: cabin.png
+img: HRT.png
 alt: image-alt
 project-date: February 2021
 client: SolutionsFBIA
