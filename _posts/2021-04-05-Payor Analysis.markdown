@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2021-04-05
-img: payors.png
+img: circlemesa.png
 alt: image-alt
 project-date: April 2021
 client: SolutionsFBIA

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2022-02-22
-img: tables.png
+img: circletree.png
 alt: image-alt
 project-date: February 2022
 client: Healthcare Technical Services Inc.
