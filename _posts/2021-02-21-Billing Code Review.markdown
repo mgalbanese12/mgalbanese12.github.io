@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2021-02-21
-img: billing.png
+img: circleheron.png
 alt: image-alt
 project-date: February 2021
 client: SolutionsFBIA
