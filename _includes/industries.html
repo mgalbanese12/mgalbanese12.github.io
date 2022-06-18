@@ -1,0 +1,18 @@
+    <section id="industries">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Industries</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+	      {% for industry in site.data.industries %}
+              <div class="col-lg-4  text-center">
+		<h3> {{ industry.title }} </h3>
+		<p> {{ industry.text }} </p>
+              </div>
+	      {% endfor %}
+            </div>
+        </div>
+    </section>
