@@ -47,6 +47,16 @@ hr.star-primary {
     overflow: visible;
 }
 
+hr.star-thin {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 2px;
+    text-align: center;
+    overflow: visible;
+}
+
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f111";
@@ -55,6 +65,16 @@ hr.star-primary:after {
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
+    font-size: 2em;
+}
+
+hr.star-thin:after {
+    content: "-";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: Arial;
     font-size: 2em;
 }
 
@@ -70,8 +90,15 @@ hr.star-light:after {
 hr.star-primary {
     border-color: #{{ site.color.secondary }};
 }
+hr.star-thin {
+    border-color: #{{ site.color.secondary }};
+}
 
 hr.star-primary:after {
+    color: #{{ site.color.secondary }};
+    background-color: #fff;
+}
+hr.star-thin:after {
     color: #{{ site.color.secondary }};
     background-color: #fff;
 }
@@ -172,7 +199,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 section h2 {
@@ -211,26 +238,27 @@ section.success {
     position: absolute;
     width: 100%;
     height: 100%;
-    opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    opacity: 100;
+    color: #fff;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 }
 
+
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    background: rgba({{ site.color.primary-rgb }},.9);
+    color: #{{ site.color.secondary }};
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
-    width: 100%;
-    height: 20px;
-    margin-top: -12px;
-    text-align: center;
+    left: 50%;
     font-size: 20px;
-    color: #fff;
+    text-align: center;
+    
+    transform: translate(-50%, -50%);
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
