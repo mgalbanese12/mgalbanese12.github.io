@@ -4,8 +4,5 @@ modal-id: 5
 date: 2021-12-01
 img: circlerocks.png
 alt: image-alt
-project-date: December 2021
-client: SolutionsFBIA
-category: Requirements Documentation
-description: I was contracted through SolutionsFBIA for requirements documentation and to provide a gap analysis for an orgainizational KPI dashboard for a 3rd party client. I documented the current and desired future state and pointed out any gaps between the two along with potential risks. I then included all of this information and proposed solutions for each data element.
+description: All of our buisness analyses begin with Requirements Documentation and a Gap Analysis though we also provide these services a la carte for 3rd party clients. We will gather business requiremnts based on your specifications and document any gaps between the current state and desired future state. We then suggest a solution for each gap and confirm with stakeholders that the solutions are reasonable.
 ---
