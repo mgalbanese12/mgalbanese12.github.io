@@ -11,14 +11,16 @@
             <div class="portfolio-flex-row">
                 {% for post in site.posts %}
                     <div class="portfolio-flex-item portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                    <i><h4>{{ post.title}}</h4></i>
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
+			
+                        </div>
+			<p style="text-indent: 20px"> {{ post.description }} </p>    
                     </div>
                 {% endfor %}
             </div>

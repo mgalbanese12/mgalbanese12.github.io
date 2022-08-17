@@ -246,10 +246,6 @@ section.success {
 }
 
 
-#portfolio .portfolio-item .portfolio-link .caption:hover {
-    background: rgba({{ site.color.primary-rgb }},.9);
-    color: #{{ site.color.secondary }};
-}
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
