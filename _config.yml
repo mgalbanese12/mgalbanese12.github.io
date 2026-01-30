@@ -1,5 +1,6 @@
 # Site settings
 title: Michael Albanese Consulting
+name: Michael Albanese Consulting
 email: mgalbanese12@gmail.com
 url: https://consultalbanese.com
 description: "Albanese Consulting provides technical services to organizations that make the world a better place. We help smaller firms access a team of experts without the financial commitment of hiring additional personnel."
@@ -19,9 +20,6 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
